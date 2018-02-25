@@ -12,7 +12,7 @@
 
 Также имеются:
 
-* [Багтрекер мода](https://github.com/AdvanceRoleplay/mods-bugs)
+* [Багтрекер мода](https://github.com/AdvanceRoleplay/mod-bugs)
 * [Багтрекер форума](https://github.com/AdvanceRoleplay/forum-bugs)
 
 
